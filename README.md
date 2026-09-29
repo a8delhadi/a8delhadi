@@ -5,7 +5,8 @@ I'm Abdelhadi HADDADI, a Full-Stack Developer from Morocco passionate about buil
 
 ## Tech Stack Visual
 
-[![Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,laravel,postgres,vscode,actix,api)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,rust,typescript,postgres,javascript)](https://skillicons.dev)
 
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,vscode,actix)](https://skillicons.dev)
 
 

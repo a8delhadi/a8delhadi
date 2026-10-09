@@ -5,7 +5,7 @@ I'm Abdelhadi HADDADI, a Full-Stack Developer from Morocco passionate about buil
 
 ## Tech Stack Visual
 
-[![Skills](https://skillicons.dev/icons?i=rust,typescript,postgres)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=rust,java,typescript,postgres)](https://skillicons.dev)
 
 
 
